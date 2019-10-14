@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shristi Jalan
+- Photo: 
+- Location: Pune,India
+- Bio: Python,DataScience
+- Github: https://github.com/Shristi19
+
+
